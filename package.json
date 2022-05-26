@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper-game",
+  "version": "1.0.0",
+  "description": "Simplified version of the Minesweeper game!",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davcd/minesweeper-game.git"
+  },
+  "author": "davcd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davcd/minesweeper-game/issues"
+  },
+  "homepage": "https://github.com/davcd/minesweeper-game#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
